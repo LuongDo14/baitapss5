@@ -1,0 +1,35 @@
+#section2{
+    float: left;
+    width: 50%;
+}
+
+#section3{
+    float: right;
+    width: 50%; 
+}
+
+article{
+    img{
+        float: left;
+      
+    }
+}
+h3{
+    text-transform:capitalize;
+}
+h4{
+    text-transform:uppercase;
+    float: left;
+    position: relative;
+    left: 250px;
+    bottom: 20px;
+}
+div p{
+    position: relative;
+    left: 250px;
+    bottom: 80px;
+}
+div{
+
+    border-bottom: 4px black solid;
+}
